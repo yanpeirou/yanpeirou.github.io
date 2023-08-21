@@ -12,10 +12,13 @@ I am currently a Ph.D. candidate at the Wangxuan Institute of Computer Technolog
 I received my masters's degree from Peking University, China, in 2022. received my bachelor's degree from Xidian University, Xi'an, China, in 2019.
 My research interest includes computer graphics and computer vision. 
 
+News
+======
+Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
 
 Publications
 ======
-G. Pu, P. Wang, and Z. Lian, et al. "SinMPI: SinMPI: Novel View Synthesis from a Single Image with Expanded
+G. Pu, P. Wang, and Z. Lian. "SinMPI: SinMPI: Novel View Synthesis from a Single Image with Expanded
 Multiplane Images", SIGGRAPH Asia 2023 Conference Papers.
 
 G. Pu, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian, "Controllable Image Synthesis with
@@ -24,7 +27,7 @@ doi: 10.1109/TPAMI.2022.3161985.
 
 Y. Wang, G. Pu, Z. Lian, "Aesthetic Text Logo Synthesis via Content-aware Layout Inferring" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022.
 
-Pu G, Wang L, Shen J, et al. A hybrid unsupervised clustering-based anomaly detection method[J]. Tsinghua Science and Technology, 2020, 26(2): 146-153.
+G. Pu, Wang L, Shen J, et al. A hybrid unsupervised clustering-based anomaly detection method[J]. Tsinghua Science and Technology, 2020, 26(2): 146-153.
 
 Patents
 ======
@@ -32,13 +35,9 @@ Patents
 
 Competitions
 ======
-jittor AI competition (Image generation track) 3rd prize (10000 RMB prize)
+Jittor AI competition (Image generation track) 3rd prize (10000 RMB prize)
 
 Peking university "Challenger Cup" 3rd prize
-
-News
-======
-Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
 
 Awards
 ======
@@ -51,6 +50,8 @@ First-class Scholarship of Xidian University. (2018)
 Teaching
 ======
 I worked as TA in the "AI Introduction" course at Peking University, 2022~2023.
+
+My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.7k stars on github.
 
 For more info
 ------
