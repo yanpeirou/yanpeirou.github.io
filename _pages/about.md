@@ -18,12 +18,9 @@ Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
 
 Publications
 ======
-G. Pu, P. Wang, and Z. Lian. "SinMPI: SinMPI: Novel View Synthesis from a Single Image with Expanded
-Multiplane Images", SIGGRAPH Asia 2023 Conference Papers.
+Guo Pu, Peng-Shuai Wang, and Zhouhui Lian. 2023. SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images. In SIGGRAPH Asia 2023 Conference Papers (SA Conference Papers ’23), December 12–15, 2023, Sydney, NSW, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3610548.3618155
 
-G. Pu, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian, "Controllable Image Synthesis with
-Attribute-Decomposed GAN," in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),
-doi: 10.1109/TPAMI.2022.3161985.
+G. Pu, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian, "Controllable Image Synthesis with Attribute-Decomposed GAN," in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), doi: 10.1109/TPAMI.2022.3161985.
 
 Y. Wang, G. Pu, Z. Lian, "Aesthetic Text Logo Synthesis via Content-aware Layout Inferring" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022.
 
