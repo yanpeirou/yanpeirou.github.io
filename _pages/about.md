@@ -28,7 +28,7 @@ G. Pu, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian, "Controllable Image Synt
 #### CVPR 2022 (CCF-A)
 Y. Wang, G. Pu, Z. Lian, "Aesthetic Text Logo Synthesis via Content-aware Layout Inferring" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022. 
 
-#### TST 2019 (SCI二区, IF=6.6) [TST期刊2022年度优秀论文， TST期刊最高引用量前20论文]
+#### TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文]
 G. Pu, Wang L, Shen J, et al. A hybrid unsupervised clustering-based anomaly detection method[J]. Tsinghua Science and Technology, 2020, 26(2): 146-153. 
 
 Patents
@@ -37,12 +37,14 @@ Patents
 
 Competitions
 ======
-Jittor AI competition (Scenery Image generation track) 3rd prize (10000 RMB prize)
+Jittor AI competition (Scenery Image generation track) 3rd prize (10000 RMB prize) [第二届计图人工智能竞赛，三等奖]
 
-Peking University "Challenger Cup" 3rd prize
+Peking University "Challenger Cup" 3rd prize [北京大学挑战杯2020，三等奖]
 
 Awards
 ======
+Excellent student (in Academic Performance) of Wangxuan Institute of Computer Technology, Peking University. (2023)
+
 Excellent student (in Academic Performance) of Wangxuan Institute of Computer Technology, Peking University. (2022)
 
 Excellent Student of Peking University. (2020)
@@ -51,10 +53,10 @@ First-class Scholarship of Xidian University. (2018)
 
 Teaching
 ======
-I worked as a TA in the "AI Introduction" course at Peking University, 2022~2023.
+Teaching assistant in the course "AI Introduction" of Peking University, 2022~2023.
 
-My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.7k stars on Github.
+Coding
+======
+My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.7k stars on GitHub.
 
-For more info
-------
-...
+My papers' source codes are available on GitHub.
