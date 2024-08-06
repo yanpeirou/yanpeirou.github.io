@@ -14,12 +14,13 @@ My research interest includes computer graphics and computer vision, currently f
 
 News
 ======
-Jul. 30, 2024: I have 1 paper conditionally accepted to SIGGRAPH Asia 2024.
-Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
+-Jul. 30, 2024: I have 1 paper conditionally accepted to SIGGRAPH Asia 2024.
+
+-Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
 
 Publications 
 ======
-### Total Citations: 193
+### Summary: [4篇CCF-A, 2篇SCI一区] [Total Citations: 200+]
 
 #### ACM SIGGRAPH Asia 2024 (CCF-A)
 **Guo Pu**, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers ’24), December, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages.
@@ -35,6 +36,7 @@ Y. Wang, **G. Pu**, Z. Lian, "Aesthetic Text Logo Synthesis via Content-aware La
 
 #### TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文]
 **G. Pu**, Wang L, Shen J, et al. A hybrid unsupervised clustering-based anomaly detection method[J]. Tsinghua Science and Technology, 2020, 26(2): 146-153. 
+
 
 Patents
 ======
@@ -62,6 +64,6 @@ Teaching assistant in the course "AI Introduction" of Peking University, 2022~20
 
 Coding
 ======
-My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.7k stars on GitHub.
+My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.8k stars on GitHub.
 
 My papers' source codes are available on GitHub.
