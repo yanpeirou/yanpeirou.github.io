@@ -10,15 +10,19 @@ redirect_from:
 
 I am currently a Ph.D. candidate at the Wangxuan Institute of Computer Technology, Peking University, China, under the supervision of Prof. Zhouhui Lian. 
 I received my master's degree from Peking University, China, in 2022. received my bachelor's degree from Xidian University, Xi'an, China, in 2019.
-My research interest includes computer graphics and computer vision. 
+My research interest includes computer graphics and computer vision, currently focusing on 3D AIGC and 3D scene reconstruction. 
 
 News
 ======
+Jul. 30, 2024: I have 1 paper conditionally accepted to SIGGRAPH Asia 2024.
 Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
 
 Publications 
 ======
 ### Total Citations: 193
+
+#### ACM SIGGRAPH Asia 2024 (CCF-A)
+**Guo Pu**, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers ’24), December, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages.
 
 #### ACM SIGGRAPH Asia 2023 (CCF-A)
 **Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian. 2023. SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images. In SIGGRAPH Asia 2023 Conference Papers (SA Conference Papers ’23), December 12–15, 2023, Sydney, NSW, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3610548.3618155 
