@@ -23,7 +23,7 @@ Publications
 ### Summary: [4篇CCF-A, 2篇SCI一区] [Total Citations: 200+]
 
 #### ACM SIGGRAPH Asia 2024 (CCF-A)
-**Guo Pu**, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers ’24), December, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages.
+**Guo Pu**, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24), December 3--6, 2024, Tokyo, Japan. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3680528.3687616 
 
 #### ACM SIGGRAPH Asia 2023 (CCF-A)
 **Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian. 2023. SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images. In SIGGRAPH Asia 2023 Conference Papers (SA Conference Papers ’23), December 12–15, 2023, Sydney, NSW, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3610548.3618155 
