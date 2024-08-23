@@ -1,69 +1,63 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "About me"
+title: "简历"
+excerpt: "邮箱：yanpeirou86@qq.com 电话：18811572021"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at the Wangxuan Institute of Computer Technology, Peking University, China, under the supervision of Prof. Zhouhui Lian. 
-I received my master's degree from Peking University, China, in 2022. received my bachelor's degree from Xidian University, Xi'an, China, in 2019.
-My research interest includes computer graphics and computer vision, currently focusing on 3D AIGC and 3D scene reconstruction. 
 
-News
+教育及工作背景
 ======
--Jul. 30, 2024: I have 1 paper conditionally accepted to SIGGRAPH Asia 2024.
+2015.9-2020.6：	华北理工大学	     专业：临床医学
 
--Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
+2020.9-2023.7：	北京大学医学部	   专业：血液专硕
 
-Publications 
+2023.9-  2024： 北京大学第三医院     血液科
+
+
+学术研究
 ======
-### Summary: [4篇CCF-A, 2篇SCI一区] [Total Citations: 200+]
+2020年至今 (第一作者研究成果)：	
 
-#### ACM SIGGRAPH Asia 2024 (CCF-A)
-**Guo Pu**, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24), December 3--6, 2024, Tokyo, Japan. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3680528.3687616 
+1.伴 KIT V560D 突变系统性肥大细胞增多症伴急性髓系白血病1例并文献复习《白血病淋巴瘤》2023.9
 
-#### ACM SIGGRAPH Asia 2023 (CCF-A)
-**Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian. 2023. SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images. In SIGGRAPH Asia 2023 Conference Papers (SA Conference Papers ’23), December 12–15, 2023, Sydney, NSW, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3610548.3618155 
+2.Risk factors of CMV viremia after haploid hematopoietic stem cell transplantation: A retrospective study《american journal of translational research》（已接收待发表）
 
-#### TPAMI 2022 (CCF-A, SCI一区, IF=23.6)
-**G. Pu**, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian, "Controllable Image Synthesis with Attribute-Decomposed GAN," in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), doi: 10.1109/TPAMI.2022.3161985. 
+3.A comparative study of lymphocyte subsets reconstitution and related complications in patients with hematologic malignancies after allogeneic hematopoietic stem cell transplantation with Beijing protocol or Post-transplant cyclophosphamide included regimen（BMT 2024.5已投 under review）
 
-#### CVPR 2022 (CCF-A)
-Y. Wang, **G. Pu**, Z. Lian, "Aesthetic Text Logo Synthesis via Content-aware Layout Inferring" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022. 
+4.Leveraging Vision Transformer (ViT) for Enhanced Classification of Dermoscopy Images: A 
+Pathway to Early Detection of Skin Cancer（2024.8已投至skin research and technology目前under review ）
 
-#### TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文]
-**G. Pu**, Wang L, Shen J, et al. A hybrid unsupervised clustering-based anomaly detection method[J]. Tsinghua Science and Technology, 2020, 26(2): 146-153. 
+5.Few-shot High Accuracy Lymphoma Pathology Image Classification Using Transfer Learning and Pre-trained Computer Vision Models with Only Ten Pathology Images（2024.8.19投至cell reports medicine）
+
+2015至2020年（第二作者研究成果）
+
+使用 Authorware 开发临床整合式麻醉解剖学考试软件 《中国医学教育技术 》2018-01 结合相关专业特点开展人体解剖学课程改革 《课程教育研究 》2018-01-11
+
+解剖学 Authorware 考试软件摸板设计 《四川解剖学杂志 》2017-09-15
 
 
-Patents
+荣获奖励
 ======
-连宙辉，蒲果，徐诗瑶，一种基于样例的动态纹理迁移方法及系统，202111582171.6 ，2022 年 1 月 17 日（专利，已授权）
+国家励志奖学金
 
-Competitions
+丁云生奖学金
+
+华北理工校奖学金
+
+个人技能
 ======
-Jittor AI competition (Scenery Image generation track) 3rd prize (10000 RMB prize) [第二届计图人工智能竞赛，三等奖]
+1.	熟练掌握体格检查、穿刺操作等临床技能，具备基本的急救知识，并能够对内科常见疾病进行基本治疗；
+2.	掌握统计学基础知识；熟练使用Excel、SPSS、R、Python进行数据处理；使用Hiplot、R、Python等软件进行数据可视化；熟练掌握latex，能够高效进行论文撰写；
+3.	擅长使用python进行机器学习、统计分析以及图像感知算法； 
+4.	大学CET-6级，具有良好的英语读写能力。
 
-Peking University "Challenger Cup" 3rd prize [北京大学挑战杯2020，三等奖]
 
-Awards
+个人优势
 ======
-Excellent student (in Academic Performance) of Wangxuan Institute of Computer Technology, Peking University. (2023)
+了解基本的血液肿瘤的治疗方案以及造血干细胞移植的治疗过程。
 
-Excellent student (in Academic Performance) of Wangxuan Institute of Computer Technology, Peking University. (2022)
 
-Excellent Student of Peking University. (2020)
-
-First-class Scholarship of Xidian University. (2018)
-
-Teaching
-======
-Teaching assistant in the course "AI Introduction" of Peking University, 2022~2023 and 2023~2024.
-
-Coding
-======
-My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.8k stars on GitHub.
-
-My papers' source codes are available on GitHub.
