@@ -20,11 +20,11 @@ redirect_from:
 
 学术研究
 ======
-2020年至今 (第一作者研究成果)：	
+### 2020年至今 (第一作者研究成果)：	
 
 1.伴 KIT V560D 突变系统性肥大细胞增多症伴急性髓系白血病1例并文献复习《白血病淋巴瘤》2023.9
 
-2.Risk factors of CMV viremia after haploid hematopoietic stem cell transplantation: A retrospective study《american journal of translational research》（已接收待发表）
+2.Risk factors of CMV viremia after haploid hematopoietic stem cell transplantation: A retrospective study《american journal of translational research》（已接收待发表）（SCI影响因子1.7）
 
 3.A comparative study of lymphocyte subsets reconstitution and related complications in patients with hematologic malignancies after allogeneic hematopoietic stem cell transplantation with Beijing protocol or Post-transplant cyclophosphamide included regimen（BMT 2024.5已投 under review）
 
@@ -33,7 +33,7 @@ Pathway to Early Detection of Skin Cancer（2024.8已投至skin research and tec
 
 5.Few-shot High Accuracy Lymphoma Pathology Image Classification Using Transfer Learning and Pre-trained Computer Vision Models with Only Ten Pathology Images（2024.8.19投至cell reports medicine）
 
-2015至2020年（第二作者研究成果）
+### 2015至2020年（第二作者研究成果）
 
 使用 Authorware 开发临床整合式麻醉解剖学考试软件 《中国医学教育技术 》2018-01 结合相关专业特点开展人体解剖学课程改革 《课程教育研究 》2018-01-11
 
